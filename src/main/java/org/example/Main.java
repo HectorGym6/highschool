@@ -14,11 +14,17 @@ Crea un proyecto que use Spring Framework que nos permita pedir los datos de un 
 
         a. Un bean de tipo Scanner
 
-        b. Un bean StudentReader. Este bean tendrá un método que al ser invocado pide al usuario los datos de un estudiante y lo devuelve. Un estudiante tiene los siguientes campos: nif, nombre y apellidos
+        b. Un bean StudentReader.
+        Este bean tendrá un método que al ser invocado pide al usuario los datos de un estudiante y lo devuelve.
+        Un estudiante tiene los siguientes campos: nif, nombre y apellidos
 
-        c. Un bean GroupReader. Este bean tendrá un método que al ser invocado pide los datos de un grupo y lo devuelve. Un grupo tiene: letra, curso y una lista de estudiantes.
+        c. Un bean GroupReader.
+        Este bean tendrá un método que al ser invocado pide los datos de un grupo y lo devuelve.
+        Un grupo tiene: letra, curso y una lista de estudiantes.
 
-        d. Un bean InstitutoReader. Este bean tendrá un método que al ser invocado pide los datos de un instituto y lo devuelve. Un instituto tiene: nombre y una lista de grupos.
+        d. Un bean InstitutoReader.
+        Este bean tendrá un método que al ser invocado pide los datos de un instituto y lo devuelve.
+        Un instituto tiene: nombre y una lista de grupos.
 
         e. Otro bean (InstitutoWriter) que guarda los datos de un instituto en un fichero json.
 
