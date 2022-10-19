@@ -3,8 +3,8 @@ package org.example.configuration;
 import org.example.components.StudentReader;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import java.util.Scanner;
 
+import java.util.Scanner;
 
 @Configuration
 public class HighschoolConfiguration {

@@ -6,3 +6,5 @@
 2022-10-13 12:28:42 INFO  StudentReader:24 - Introduce el nombre
 2022-10-13 12:28:49 INFO  StudentReader:26 - Introduce los apellidos
 2022-10-13 12:28:54 INFO  Main:52 - Student(nif=50377, name=TERE, surname=ERTE)
+2022-10-19 12:17:11 INFO  StudentReader:20 - Introduce el NIF
+2022-10-19 12:20:30 INFO  StudentReader:20 - Introduce el NIF
